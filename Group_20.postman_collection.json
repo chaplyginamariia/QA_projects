@@ -5,6 +5,7 @@
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
+#The first lesson		
 		{
 			"name": "first",
 			"request": {
@@ -23,6 +24,7 @@
 			},
 			"response": []
 		},
+#The first homework		
 		{
 			"name": "EP_1",
 			"request": {
